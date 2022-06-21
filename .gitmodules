@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "phylosamp"]
+	path = phylosamp
+	url = https://github.com/hopkinsidd/phylosamp
+	shallow = true
+	registered = true
